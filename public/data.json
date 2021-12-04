@@ -5,6 +5,7 @@
     "src": "https://www.thebangladeshikitchen.com/wp-content/uploads/2017/05/Homestyle-Chicken-Korma.png",
     "serveTime": "1 hour 15 minutes",
     "Ingredients": "Chicken, onions, ginger, garlic, yogurt, cardamom, cloves, cinnamon, salt, sugar, black peppercorns, green peppers, ghee", 
+    "rating": "5",
     "price": "200"
   },
   {
@@ -13,6 +14,7 @@
     "src": "https://www.thebangladeshikitchen.com/wp-content/uploads/2014/10/KushaMurgi.png",
     "serveTime": "1 hour",
     "Ingredients": "Chicken, mustard oil, onions, ginger, garlic, cardamom, cloves, cinnamon, salt, sugar, dried red chilies, tomatoes, cilantro", 
+    "rating": "4",
     "price": "150"
   },
   {
@@ -21,6 +23,7 @@
     "src": "https://www.thebangladeshikitchen.com/wp-content/uploads/2014/10/KataMoshlarMangsho.png",
     "serveTime": "1 hour 30 minutes",
     "Ingredients": "Beef, onions, ginger, garlic, yogurt, cardamom, cloves, cinnamon, dried red chilies, salt, ghee", 
+    "rating": "4",
     "price": "150"
   },
   {
@@ -29,6 +32,7 @@
     "src": "https://www.thebangladeshikitchen.com/wp-content/uploads/2010/02/shahi_rezala.jpg",
     "serveTime": "1 hour 30 minutes",
     "Ingredients": "Beef, onions, ginger, garlic, yogurt, cardamom, cloves, cinnamon, suger, salt, ghee", 
+    "rating": "5",
     "price": "200"
   },
   {
@@ -37,6 +41,7 @@
     "src": "https://www.thebangladeshikitchen.com/wp-content/uploads/2009/07/korma-1024x810.jpg",
     "serveTime": "1 hour",
     "Ingredients": "Fish , onions, ginger, garlic, cardamom, cloves, cinnamon, salt, sugar, cooking oil, Kewra, Lemon juice", 
+    "rating": "4",
     "price": "120"
   },
   {
@@ -45,6 +50,7 @@
     "src": "https://www.thebangladeshikitchen.com/wp-content/uploads/2009/09/shrimp.jpg",
     "serveTime": "1 hour",
     "Ingredients": "Shrimp, onions, ginger, garlic, cardamom, cloves, cinnamon, salt, sugar, tomato, cooking oil",
+    "rating": "4",
     "price": "180"
   },
   {
@@ -53,6 +59,7 @@
     "src": "https://www.thebangladeshikitchen.com/wp-content/uploads/2009/11/P1010956.png",
     "serveTime": "1 hour 30 minutes",
     "Ingredients": "Beef, onions, ginger, garlic, yogurt, cardamom, cloves, cinnamon, suger, salt, ghee", 
+    "rating": "4",
     "price": "180"
   },
   {
@@ -61,6 +68,7 @@
     "src": "https://www.thebangladeshikitchen.com/wp-content/uploads/2010/02/fishyogurtsauce.jpg",
     "serveTime": "1.5 hours",
     "Ingredients": "White fish , onions, ginger, garlic, cardamom, cloves, cinnamon, salt, sugar, cooking oil, yogurt, Lemon juice", 
+    "rating": "3.5",
     "price": "200"
   },
   {
@@ -69,6 +77,7 @@
     "src": "https://www.thebangladeshikitchen.com/wp-content/uploads/2009/09/fish.jpg",
     "serveTime": "1 hours",
     "Ingredients": "Rui steaks, onions, ginger, garlic, cardamom, cloves, cinnamon, salt, sugar, cooking oil, tomato", 
+    "rating": "4",
     "price": "120"
   },
   {
@@ -77,6 +86,7 @@
     "src": "https://www.thebangladeshikitchen.com/wp-content/uploads/2009/12/P10201761.gif",
     "serveTime": "1.5 hours",
     "Ingredients": "Hilsha fish, mustard, green chilis, onion, red chili powder, turmeric powder, mustard oil, Salt", 
+    "rating": "5",
     "price": "150"
   },
   {
@@ -85,6 +95,7 @@
     "src": "https://www.thebangladeshikitchen.com/wp-content/uploads/2010/01/P1020501.jpg",
     "serveTime": " 1.25 hours",
     "Ingredients": "Rui fish, onions, ginger, garlic, cardamom, cloves, cinnamon, salt, sugar, cooking oil,", 
+    "rating": "4",
     "price": "100"
   },
   {
@@ -93,6 +104,7 @@
     "src": "https://www.thebangladeshikitchen.com/wp-content/uploads/2010/02/ilish_polau.jpg",
     "serveTime": "1.5 hours",
     "Ingredients": "Hilsha fish, mustard, green chilis, onion, red chili powder, turmeric powder, cooking oil, kalojieera , Salt", 
+    "rating": "4",
     "price": "200"
   },
   {
@@ -101,6 +113,7 @@
     "src": "https://www.thebangladeshikitchen.com/wp-content/uploads/2010/01/P1020308.png",
     "serveTime": "1 hour",
     "Ingredients": "Shrimp, onions, ginger, garlic, cardamom, cloves, cinnamon, salt, sugar, tomato, cooking oil", 
+    "rating": "3.5",
     "price": "180"
   },
   {
@@ -109,6 +122,7 @@
     "src": "https://www.thebangladeshikitchen.com/wp-content/uploads/2014/10/basmati-1024x680.jpg",
     "serveTime": "25 minutes",
     "Ingredients": "Basmati rice, onion, carrots, cardamom, cloves, cinnamon, vegetable oil, butter, salt", 
+    "rating": "5",
     "price": "100"
   },
   {
@@ -117,6 +131,7 @@
     "src": "https://www.thebangladeshikitchen.com/wp-content/uploads/2014/10/BhunaKhichuri.png",
     "serveTime": "45 minutes",
     "Ingredients": "Polau Rice, Moogdal, cloves, cinnamon, salt, ghee, Bayleaf", 
+    "rating": "4.5",
     "price": "150"
   },
   {
@@ -124,7 +139,8 @@
     "item": "Naan",
     "src": "https://www.thebangladeshikitchen.com/wp-content/uploads/2014/10/naan.jpg",
     "serveTime": "30 minutes",
-    "Ingredients": "Flour, yeast, sugar, salt, yogurt, egg, ghee, poppy or sesame seeds ", 
+    "Ingredients": "Flour, yeast, sugar, salt, yogurt, egg, ghee, poppy or sesame seeds ",
+    "rating": "4", 
     "price": "40"
   }
   
