@@ -1,0 +1,131 @@
+[
+  {
+    "id": "01",
+    "item": "Homestyle Chicken Korma",
+    "src": "https://www.thebangladeshikitchen.com/wp-content/uploads/2017/05/Homestyle-Chicken-Korma.png",
+    "serveTime": "1 hour 15 minutes",
+    "Ingredients": "Chicken, onions, ginger, garlic, yogurt, cardamom, cloves, cinnamon, salt, sugar, black peppercorns, green peppers, ghee", 
+    "price": "200"
+  },
+  {
+    "id": "02",
+    "item": "Spicy Dry Chicken – Kosha Murgir Mangsho",
+    "src": "https://www.thebangladeshikitchen.com/wp-content/uploads/2014/10/KushaMurgi.png",
+    "serveTime": "1 hour",
+    "Ingredients": "Chicken, mustard oil, onions, ginger, garlic, cardamom, cloves, cinnamon, salt, sugar, dried red chilies, tomatoes, cilantro", 
+    "price": "150"
+  },
+  {
+    "id": "03",
+    "item": "Kata Moshlar Mangsho – Meat with whole spices",
+    "src": "https://www.thebangladeshikitchen.com/wp-content/uploads/2014/10/KataMoshlarMangsho.png",
+    "serveTime": "1 hour 30 minutes",
+    "Ingredients": "Beef, onions, ginger, garlic, yogurt, cardamom, cloves, cinnamon, dried red chilies, salt, ghee", 
+    "price": "150"
+  },
+  {
+    "id": "04",
+    "item": "Shahi Rezala",
+    "src": "https://www.thebangladeshikitchen.com/wp-content/uploads/2010/02/shahi_rezala.jpg",
+    "serveTime": "1 hour 30 minutes",
+    "Ingredients": "Beef, onions, ginger, garlic, yogurt, cardamom, cloves, cinnamon, suger, salt, ghee", 
+    "price": "200"
+  },
+  {
+    "id": "05",
+    "item": "Fish Korma",
+    "src": "https://www.thebangladeshikitchen.com/wp-content/uploads/2009/07/korma-1024x810.jpg",
+    "serveTime": "1 hour",
+    "Ingredients": "Fish , onions, ginger, garlic, cardamom, cloves, cinnamon, salt, sugar, cooking oil, Kewra, Lemon juice", 
+    "price": "120"
+  },
+  {
+    "id": "06",
+    "item": "Shrimp with cilantro and tomato",
+    "src": "https://www.thebangladeshikitchen.com/wp-content/uploads/2009/09/shrimp.jpg",
+    "serveTime": "1 hour",
+    "Ingredients": "Shrimp, onions, ginger, garlic, cardamom, cloves, cinnamon, salt, sugar, tomato, cooking oil",
+    "price": "180"
+  },
+  {
+    "id": "07",
+    "item": "Beef Tehari",
+    "src": "https://www.thebangladeshikitchen.com/wp-content/uploads/2009/11/P1010956.png",
+    "serveTime": "1 hour 30 minutes",
+    "Ingredients": "Beef, onions, ginger, garlic, yogurt, cardamom, cloves, cinnamon, suger, salt, ghee", 
+    "price": "180"
+  },
+  {
+    "id": "08",
+    "item": "Baked fish in a light yogurt sauce",
+    "src": "https://www.thebangladeshikitchen.com/wp-content/uploads/2010/02/fishyogurtsauce.jpg",
+    "serveTime": "1.5 hours",
+    "Ingredients": "White fish , onions, ginger, garlic, cardamom, cloves, cinnamon, salt, sugar, cooking oil, yogurt, Lemon juice", 
+    "price": "200"
+  },
+  {
+    "id": "09",
+    "item": "Rui fish in a spicy tomato and onion sauce",
+    "src": "https://www.thebangladeshikitchen.com/wp-content/uploads/2009/09/fish.jpg",
+    "serveTime": "1 hours",
+    "Ingredients": "Rui steaks, onions, ginger, garlic, cardamom, cloves, cinnamon, salt, sugar, cooking oil, tomato", 
+    "price": "120"
+  },
+  {
+    "id": "10",
+    "item": "Shorshe Ilish – Hilsa in mustard sauce",
+    "src": "https://www.thebangladeshikitchen.com/wp-content/uploads/2009/12/P10201761.gif",
+    "serveTime": "1.5 hours",
+    "Ingredients": "Hilsha fish, mustard, green chilis, onion, red chili powder, turmeric powder, mustard oil, Salt", 
+    "price": "150"
+  },
+  {
+    "id": "11",
+    "item": "Rui Machher Jhaal Kalia – Spicy Fish Kalia",
+    "src": "https://www.thebangladeshikitchen.com/wp-content/uploads/2010/01/P1020501.jpg",
+    "serveTime": " 1.25 hours",
+    "Ingredients": "Rui fish, onions, ginger, garlic, cardamom, cloves, cinnamon, salt, sugar, cooking oil,", 
+    "price": "100"
+  },
+  {
+    "id": "12",
+    "item": "Ilish Polau = Hilsa Pilaf",
+    "src": "https://www.thebangladeshikitchen.com/wp-content/uploads/2010/02/ilish_polau.jpg",
+    "serveTime": "1.5 hours",
+    "Ingredients": "Hilsha fish, mustard, green chilis, onion, red chili powder, turmeric powder, cooking oil, kalojieera , Salt", 
+    "price": "200"
+  },
+  {
+    "id": "13",
+    "item": "Bhapa Chingri – Steamed shrimp with mustard and green chili",
+    "src": "https://www.thebangladeshikitchen.com/wp-content/uploads/2010/01/P1020308.png",
+    "serveTime": "1 hour",
+    "Ingredients": "Shrimp, onions, ginger, garlic, cardamom, cloves, cinnamon, salt, sugar, tomato, cooking oil", 
+    "price": "180"
+  },
+  {
+    "id": "14",
+    "item": "Basmati Rice",
+    "src": "https://www.thebangladeshikitchen.com/wp-content/uploads/2014/10/basmati-1024x680.jpg",
+    "serveTime": "25 minutes",
+    "Ingredients": "Basmati rice, onion, carrots, cardamom, cloves, cinnamon, vegetable oil, butter, salt", 
+    "price": "100"
+  },
+  {
+    "id": "15",
+    "item": "Bhuna Khichuri",
+    "src": "https://www.thebangladeshikitchen.com/wp-content/uploads/2014/10/BhunaKhichuri.png",
+    "serveTime": "45 minutes",
+    "Ingredients": "Polau Rice, Moogdal, cloves, cinnamon, salt, ghee, Bayleaf", 
+    "price": "150"
+  },
+  {
+    "id": "16",
+    "item": "Naan",
+    "src": "https://www.thebangladeshikitchen.com/wp-content/uploads/2014/10/naan.jpg",
+    "serveTime": "30 minutes",
+    "Ingredients": "Flour, yeast, sugar, salt, yogurt, egg, ghee, poppy or sesame seeds ", 
+    "price": "40"
+  }
+  
+]
