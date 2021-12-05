@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Bhojon Bilash ( ভোজন বিলাস )
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live site : https://agitated-newton-10f795.netlify.app/
 
 ## Available Scripts
 
