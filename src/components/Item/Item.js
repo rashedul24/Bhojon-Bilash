@@ -18,7 +18,7 @@ const Item = () => {
   return (
     <div className="d-flex">
       <div className="col-md-9 p-5">
-        <div class="row row-cols-1 row-cols-md-3 g-4">
+        <div className="row row-cols-1 row-cols-md-3 g-4">
           {dishes.map(dish => (
             <Dish dish={dish}
               key={dish.id}

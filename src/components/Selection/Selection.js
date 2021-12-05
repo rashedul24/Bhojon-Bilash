@@ -13,7 +13,7 @@ const Selection = (props) => {
   const total = selection.reduce(totalReducer, 0)
   return (
     <div className="bg-success bg-gradient rounded p-3 position-fixed ">
-      <h3 >{element} Selection: {selection.length}</h3>
+      <h3 >{element} Item Selected: {selection.length}</h3>
       <h2>Total Price: { total} Taka</h2>
       <ul>
         {

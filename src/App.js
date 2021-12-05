@@ -4,7 +4,7 @@ import Item from './components/Item/Item';
 
 function App() {
   return (
-    <div >
+    <div className="site-bg">
       <Header></Header>
       <Item></Item>
     </div>

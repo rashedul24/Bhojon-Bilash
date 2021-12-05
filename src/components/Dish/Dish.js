@@ -7,7 +7,6 @@ import Rating from "react-rating";
 const Dish = (props) => {
   const { item, src, Ingredients, serveTime, price, rating } = props.dish;
   const element = <FontAwesomeIcon icon={faUtensils} />
-console.log(props.dish);
   return (
     <div>
       <div className="col-md-12">

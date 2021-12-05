@@ -4,7 +4,7 @@ import cover from '../../image/cover.jpg'
 
 const Header = () => {
   return (
-    <div className="header d-flex justify-content-evenly">
+    <div className="header d-flex justify-content-between">
       <div className="header-text">
         <h1>Bhojon Bilash </h1>
         <h2>( ভোজন বিলাস )</h2>
