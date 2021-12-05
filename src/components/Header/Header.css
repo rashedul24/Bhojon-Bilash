@@ -1,21 +1,24 @@
-.header{
-background-color:rgb(201, 147, 67);
-border-radius: 15px;
-margin-left: 60px;
-height: 280px;
-width: 89%;
+/* header style */
+.header {
+  background-color: rgb(201, 147, 67);
+  border-radius: 15px;
+  margin-left: 60px;
+  height: 280px;
+  width: 89%;
 
 }
-.header-text{
-  color: rgb(67, 34, 185);  
+
+.header-text {
+  color: rgb(67, 34, 185);
   padding: 30px;
   text-align: center;
   margin-left: 50px;
   padding-left: 100px;
 }
+
+/* header image */
 .cover-image {
   height: 280px;
   border-radius: 15px;
-
 
 }
