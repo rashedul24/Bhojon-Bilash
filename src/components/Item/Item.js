@@ -9,7 +9,6 @@ const Item = () => {
   const selectionCart = (dish) => {
     const newSelection = [...selection, dish];
     setSelection(newSelection);
-    
   };
   // fetching data
   useEffect(() => {
