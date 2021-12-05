@@ -4,6 +4,9 @@ Live site : https://agitated-newton-10f795.netlify.app/
 
 ## Available Scripts
 
+* This is a restaurent project
+* 
+
 In the project directory, you can run:
 
 ### `npm start`
